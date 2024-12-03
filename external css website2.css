@@ -1,0 +1,117 @@
+body{
+        position: relative;
+}
+.header{
+        padding: 50px;
+        margin-left: 50px;
+        -border: 1px solid red;
+        display: flex;
+}
+.search{
+        border: 1px solid rgb(213, 202, 202);
+        margin-left: 100px;
+        margin-left: 250px;
+}
+.nav a{
+        background-color: #343536;
+        color: white;
+        font-size: 17px;
+        font-weight: 600;
+        margin-left: 20px;
+}
+.header1{
+        background-color: #343536;
+        position: sticky;top: 0;
+}
+.image{
+        background-image: url(image/eshopwebsite/slider-image2.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 450px;  
+}
+.image1{
+        display: flex;
+        justify-content: space-around;
+        margin-top: 30px;
+}
+.img1{
+        position: relative;
+        width: 31%;
+        height: 100%;
+}
+.img1 img{
+        width: 100%;
+}
+.overlaytext{
+        position: absolute;
+        text-align: center;
+        left: 10px;
+        bottom: 20px;
+        top: 40px;
+}
+.box{
+        width: 80px;
+        height: 2px;
+        background-color: #F7941D;
+        margin: 0 auto;
+}
+ul a{
+        text-decoration: none;
+        color: black;
+        font-weight: 600;
+        margin-left: 15px;
+}
+.p1{
+        height: 450px;
+}
+.yellowbg{
+        background-color: #F7941D;
+        height: 450px;
+}
+.box2{
+        background-color: white;
+        height: 3px;
+        width: 70px;
+        margin-left: 660px;
+        margin-top: 15px;
+}
+.box3{
+        background-color: #F7941D;
+        width: 50px;
+        height: 2px;
+}
+.bgwarning{
+        background-color: #F7941D;
+        width: 60px;
+}
+.blog{
+        display: flex;
+       justify-content: space-between;
+}
+.bg1{
+        background-color: #F6F7FB;
+        height: 150px;
+        margin-top: 100px;
+}
+.iconbg1{
+        display: flex;
+}
+.icon1{
+        width: 25%;
+}
+.footer{
+        background-color: #222222;
+        height: 400px;
+}
+.footer1{
+        display: flex;
+}
+.eshop{
+        width: 35%;
+}
+.info{
+        width: 20%;
+}
+.Service{
+        width: 20%;
+}

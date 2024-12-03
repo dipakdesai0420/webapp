@@ -1,0 +1,10 @@
+.header{
+    padding: 10px;
+}
+.header a{
+    text-decoration: none;
+    margin-left: 70px;
+    padding: 10px;
+    color: black;
+    font-weight:bold;
+}
